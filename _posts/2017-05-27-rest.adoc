@@ -1,0 +1,7 @@
+// = Your Blog title
+= rest
+Caching principles
+
+Asynchronous and long-running jobs in REST
+
+HTTP PATCH and partial updates
