@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>cszongyang.github.io/about/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/showcase/</loc>
+    <loc>cszongyang.github.io/showcase/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/showcase/"
+                href="cszongyang.github.io/sv/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/showcase/"
+                href="cszongyang.github.io/showcase/"
                 />
   </url>
   
   <url>
-    <loc>/2016/04/24/what-is-hugo/</loc>
+    <loc>cszongyang.github.io/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/04/21/introduction/</loc>
+    <loc>cszongyang.github.io/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/2016/12/05/introduktion/"
+                href="cszongyang.github.io/sv/2016/12/05/introduktion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2016/04/21/introduction/"
+                href="cszongyang.github.io/2016/04/21/introduction/"
                 />
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>cszongyang.github.io/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/post/"
+                href="cszongyang.github.io/sv/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="cszongyang.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>cszongyang.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/topics/</loc>
+    <loc>cszongyang.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>cszongyang.github.io/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/"
+                href="cszongyang.github.io/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="cszongyang.github.io/"
                 />
   </url>
   
