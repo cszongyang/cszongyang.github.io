@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>myzone/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>myzone/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="myzone/sv/showcase/"
+                href="/sv/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="myzone/showcase/"
+                href="/showcase/"
                 />
   </url>
   
   <url>
-    <loc>myzone/2016/04/24/what-is-hugo/</loc>
+    <loc>/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>myzone/2016/04/21/introduction/</loc>
+    <loc>/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="myzone/sv/2016/12/05/introduktion/"
+                href="/sv/2016/12/05/introduktion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="myzone/2016/04/21/introduction/"
+                href="/2016/04/21/introduction/"
                 />
   </url>
   
   <url>
-    <loc>myzone/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="myzone/sv/post/"
+                href="/sv/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="myzone/post/"
+                href="/post/"
                 />
   </url>
   
   <url>
-    <loc>myzone/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>myzone/topics/</loc>
+    <loc>/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>myzone/</loc>
+    <loc>/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="myzone/sv/"
+                href="/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="myzone/"
+                href="/"
                 />
   </url>
   
