@@ -1,2 +1,0 @@
-# myzone
-personal website
