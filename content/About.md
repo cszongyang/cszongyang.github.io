@@ -5,6 +5,7 @@ title = ""
 author = "author"
 draft = false
 type = "page"
+url = "myzone/"
 [menu]
      [menu.main]
         name = "About me"

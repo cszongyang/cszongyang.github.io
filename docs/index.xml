@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>/myzone/</link>
       <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/about/</guid>
+      <guid>/myzone/</guid>
       <description>About me With 2 years experience in designing, building, testing and supporting web applications(mainly Java), I have extensive experience of Java (Core), Java web development, Java/J2EE, Spring MVC, Spring Boot, and database systems. In my working experience, I played an important role in building a data streaming platform to support one of the leading automotive business, mainly based on kafka stream technology. I also actively participated and contributed in the process migrating a PaaS environment from a monolith application to microservices architecture.</description>
     </item>
     
