@@ -388,7 +388,7 @@ disqusShortname = "your_disqus_shortname"
     name = "Projects"
     weight = 1
     identifier = ""
-    url = "myzone/projects"
+    url = "/myzone/projects"
     pre = "<i class='fa fa-road'></i>"
 
     # [[Languages.en.menu.main]]
