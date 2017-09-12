@@ -1,9 +1,0 @@
-// = First article
-= first article
-
-
-Caching principles
-
-Asynchronous and long-running jobs in REST
-
-HTTP PATCH and partial updates
