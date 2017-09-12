@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>myzone/sv/showcase/</loc>
+    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="myzone/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="myzone/sv/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>myzone/sv/2016/12/05/introduktion/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="myzone/2016/04/21/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="myzone/sv/2016/12/05/introduktion/"
+                />
+  </url>
+  
+  <url>
+    <loc>myzone/sv/taggar/ett/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>myzone/sv/</loc>
+    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="myzone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="myzone/sv/"
+                />
+  </url>
+  
+  <url>
+    <loc>myzone/sv/post/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="myzone/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="myzone/sv/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>myzone/sv/taggar/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>myzone/sv/taggar/tv%C3%A5/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>myzone/sv/%C3%A4mne/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>myzone/sv/%C3%A4mne/%C3%A4mne-1/</loc>
+    <lastmod>2016-12-05T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
