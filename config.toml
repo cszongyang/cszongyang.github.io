@@ -222,6 +222,9 @@ baseurl = "/"
 
 DefaultContentLanguage = "en"
 
+
+publishDir = "docs"
+
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
 # will be in the root and other languages in their respective subfolder such as /sv/.
